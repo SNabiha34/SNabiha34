@@ -1,5 +1,5 @@
 # Hi! My name is Syeda and I'm a rising high school senior.
-I'm a rising HS senior student, who is passionate about international business and computer science. I have experience with several programming languages, including JavaScript, HTML, and Python. As of right now, I'm trying to expand my knowledge on programming!
+I'm a rising HS senior student, who is passionate about international business and computer science. I have experience with several programming languages, including JavaScript, HTML, and Python. As of right now, I'm trying to expand my knowledge on programming! What I hope to achieve by learning to use GitHub is being able to grow as a developer. I want to build a strong portfolio, where I can show off real code, projects, and contributions to future employers/schools, network with others, and track my growth over time.
 
 ---
 # Past Works and Projects
